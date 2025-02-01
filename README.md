@@ -60,28 +60,7 @@ I'm a **Cloud Engineer** with a passion for building scalable, innovative soluti
 
 ---
 
-### 📈 GitHub Stats
 
-<div align="center">
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-username&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
-### 🚀 Featured Projects
-
-<a href="https://github.com/your-username/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project1&theme=dark" />
-</a>
-<a href="https://github.com/your-username/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project2&theme=dark" />
-</a>
-
----
 
 ### 🌟 Entrepreneurial Mindset
 
@@ -101,10 +80,6 @@ I'm a **Cloud Engineer** with a passion for building scalable, innovative soluti
 - ☕ Coffee fuels my late-night coding sessions.
 
 ---
-
-<div align="center">
-  <img src="https://media.giphy.com/media/l0HU7JI1i4Aqk2XwQ/giphy.gif" width="200" height="200"/>
-</div>
 
 <div align="center">
   <i>"Innovation distinguishes between a leader and a follower." - Steve Jobs</i>
