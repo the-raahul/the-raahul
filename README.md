@@ -1,18 +1,19 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" height="300"/>
+<!--   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" height="300"/> -->
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300"/>
 </div>
 
 # 👋 Hello World, I'm Rahul!
 
 <div align="center">
-  <h3>☁️ Cloud Engineer | 🚀 Tech Innovator | 🌍 Problem Solver</h3>
+  <h3>☁️ Cloud Engineer | 💻 Coder | 🚀 Tech Innovator | 🌍 Problem Solver</h3>
 </div>
 
 <div id="badges" align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/genius-rahul-kumar23/)">
+  <a href="https://www.linkedin.com/in/genius-rahul-kumar23/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[your-twitter-URL](https://x.com/rahuldominant)">
+  <a href="https://x.com/rahuldominant">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="mailto:your-email@example.com">
@@ -31,11 +32,11 @@
 
 ### 🌟 About Me
 
-I'm a **Cloud Engineer** with a passion for building scalable, innovative solutions that solve real-world problems. I thrive at the intersection of technology and creativity, always exploring new ways to push boundaries and deliver value.
+I'm a **Cloud Engineer** and **Coder** with a passion for building scalable, innovative solutions that solve real-world problems. I thrive at the intersection of technology and creativity, always exploring new ways to push boundaries and deliver value.
 
 - 🌩️ **Cloud Specialist**: Proficient in AWS, Azure, and Google Cloud.
 - 🛠️ **DevOps Enthusiast**: Automating everything with Docker, Kubernetes, and Terraform.
-- 🚀 **Tech Entrepreneur**: Building solutions that make a difference.
+- 💻 **Full-Stack Developer**: Skilled in both frontend and backend technologies.
 - 📚 **Lifelong Learner**: Always exploring new technologies and frameworks.
 - 🤝 **Collaborator**: Open to working on exciting projects and ideas.
 
@@ -51,16 +52,24 @@ I'm a **Cloud Engineer** with a passion for building scalable, innovative soluti
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-#### Programming & Tools
+#### Programming Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+#### Web Development
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+#### Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
-
-
 
 ### 🌟 Entrepreneurial Mindset
 
@@ -78,6 +87,14 @@ I'm a **Cloud Engineer** with a passion for building scalable, innovative soluti
 - 🎧 Music is my go-to for focus and relaxation.
 - 🚴‍♂️ I enjoy cycling and outdoor adventures.
 - ☕ Coffee fuels my late-night coding sessions.
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47p8yv86dnmlhehq5nfggrm8yzdwzhhg5v8xuo99nj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" height="200" alt="Cloud Computing"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" height="200" alt="Coding"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" height="200" alt="Tech Innovation"/>
+</div>
 
 ---
 
