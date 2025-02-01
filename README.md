@@ -93,7 +93,7 @@ I'm a **Cloud Engineer** and **Coder** with a passion for building scalable, inn
 <div align="center">
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47p8yv86dnmlhehq5nfggrm8yzdwzhhg5v8xuo99nj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" height="200" alt="Cloud Computing"/>
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" height="200" alt="Coding"/>
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" height="200" alt="Tech Innovation"/>
+<!--   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3c0eXgwODk2cmE3MzdmZWs0dm82dmZsMTdhdnkyeDgzY2g3b2EybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.gif" width="200" height="200" alt="Tech Innovation"/> -->
 </div>
 
 ---
